@@ -18,9 +18,9 @@ class HomeFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val binding=DataBindingUtil.inflate<FragmentHomeBinding>(inflater,R.layout.fragment_home,container,false)
-//        val viewModel=ViewModelProviders.of(this).get(HomeViewModel::class.java)
-//        viewModel.context=this.context
-//        binding.viewmodel=viewModel
+        val viewModel=ViewModelProviders.of(this).get(HomeViewModel::class.java)
+        viewModel.context=this.context
+        binding.viewmodel=viewModel
 
         return binding.root
     }

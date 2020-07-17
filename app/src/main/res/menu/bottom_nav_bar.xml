@@ -3,14 +3,19 @@
 
     <item
         android:icon="@drawable/ic_launcher_foreground"
-        android:title="Home" />
+        android:title="Home"
+        android:id="@+id/menu_home"/>
     <item
         android:icon="@drawable/ic_launcher_foreground"
-        android:title="All Subs" />
+        android:title="All Subs"
+        android:id="@+id/menu_allSubs"/>
     <item
         android:icon="@drawable/ic_launcher_foreground"
-        android:title="Moderated Subs" />
+        android:title="Moderated Subs"
+        android:id="@+id/menu_moderatedSubs"
+        />
     <item
         android:icon="@drawable/ic_launcher_foreground"
-        android:title="Profile" />
+        android:title="Profile"
+        android:id="@+id/menu_profile"/>
 </menu>
