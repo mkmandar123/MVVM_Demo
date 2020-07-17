@@ -3,11 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
-<!--    <data>-->
-<!--    <variable-->
-<!--        name="viewmodel"-->
-<!--        type="com.example.shg.viewmodels.HomeViewModel" />-->
-<!--    </data>-->
+    <data>
+    <variable
+        name="viewmodel"
+        type="com.example.shg.viewmodels.HomeViewModel" />
+    </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/homeView"
