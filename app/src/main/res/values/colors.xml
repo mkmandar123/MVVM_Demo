@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!--    AuthActivity-->
+    <color name="AuthactivityPrimary">#009688</color>
+    <color name="AuthActivitySecondary">#87dfd6</color>
+
+<!-- Home Activity   -->
+    <color name="HomeActivityPrimary">#596e79</color>
+    <color name="HomeActivitySecondary">#eeeeee</color>
+
+<!--    NavBar-->
+    <color name="BottomNavBarBg">#596e79</color>
+    <color name="BottomNavBarText">#eeeeee</color>
+</resources>

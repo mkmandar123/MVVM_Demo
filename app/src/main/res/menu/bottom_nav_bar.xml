@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Home" />
+    <item
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="All Subs" />
+    <item
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Moderated Subs" />
+    <item
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Profile" />
+</menu>
